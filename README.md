@@ -1,7 +1,7 @@
 # Watched App
 
 ## To login
-username: username
+username: username,
 password: password
 
 https://watched-movie-app.netlify.app
